@@ -21,8 +21,6 @@ library(ggmap)
 library(sf)
 library(rgdal)
 
-setwd("C:/Users/mfich/Documents/Clients/MUSA_Teaching_and_Admin/SPRING_STUDIO_2018/Shiny_demo/shiny_demo_32118")
-
 # ---- What is shiny? ------
 
 # It's a way to present data analyzed in R to a user and let them view or manipulate it
